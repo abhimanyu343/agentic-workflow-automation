@@ -1,0 +1,13 @@
+n8n==1.45.0
+langchain==0.2.0
+langchain-openai==0.1.7
+langchain-community==0.2.0
+fastapi==0.111.0
+uvicorn==0.29.0
+fpdf2==2.7.9
+pandas==2.2.0
+slack-sdk==3.27.1
+sendgrid==6.11.0
+apscheduler==3.10.4
+python-dotenv==1.0.1
+sqlalchemy==2.0.30
